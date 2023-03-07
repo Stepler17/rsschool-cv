@@ -14,7 +14,7 @@ __Mail:__ dani.krutob12@gmail.com
 __My goal:__ to become a good javaScript developer,
 for this I work on myself, read technical literature on JS
 perform various tasks on codewars in my free time, I want to
-I want to do this because I like to create something new and make life easier 
+I want to do this because I like to create something new and make life easier
 people. My goal is to make the world easier and more convenient for everyone.
 ====
 ### SKILS
@@ -22,9 +22,10 @@ people. My goal is to make the world easier and more convenient for everyone.
 2. CSS
 3. JS
 4. BEM
+
 ====
 ### CODE EXAMPLE
-___Task:__ A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
+__Task:__ A hero is on his way to the castle to complete his mission. However, he's been told that the castle is surrounded with a couple of powerful dragons! each dragon takes 2 bullets to be defeated, our hero has no idea how many bullets he should carry.. Assuming he's gonna grab a specific given number of bullets and move forward to fight another specific given number of dragons, will he survive?
 Return True if yes, False otherwise
 ```
 function hero (bullets, dragons){
