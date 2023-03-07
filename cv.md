@@ -36,7 +36,7 @@ return ( ( dragons * 2 ) <= bullets ) ? true : false;
 ```
 **********
 ### WORK EXPERINCE
-1. I have been working with the company for 6 months.
+1. I have been working with the company for 6 months;
 **********
 ### EDUCATION
 1. Secondary Specialized;
