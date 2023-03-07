@@ -1,7 +1,7 @@
-#rsschool-cv(https://Stepler17.github.io/rsschool-cv/)
+# [rsschool-cv](https://Stepler17.github.io/rsschool-cv/)
 
-##Vadim Zheltikov
+## Vadim Zheltikov
 
-###Contact infirmation:
+### Contact infirmation:
 
 **discord:** Stepler82#0135
